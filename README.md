@@ -31,7 +31,7 @@
 Удалить неисключающий шлюз
 
 **Исходная BPMN-схема**
-![](Photos/2_task_ish.jpg)
+![](Photos/2_task_ishj.jpg)
 
 **Исправленная BPMN-схема**
 ![](Photos/2_task_ispr.jpg)
