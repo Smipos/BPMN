@@ -23,3 +23,15 @@
 
 **BPMN-схема**:
 ![](Photos/1_task.png)
+
+## 2. Eliminate the OR join
+
+### Задание:
+
+Удалить неисключающий шлюз
+
+**Исходная BPMN-схема**
+![](Photos/2_task_ish.jpg)
+
+**Исправленная BPMN-схема**
+![](Photos/2_task_ispr.jpg)
