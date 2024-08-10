@@ -1,6 +1,6 @@
 # BPMN Tasks
 
-## 1. Отправка товаров
+## 1. Dispatch of goods
 
 ### Задание: 
 
