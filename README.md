@@ -36,7 +36,7 @@
 **Исправленная BPMN-схема**:
 ![](Photos/2_task_ispr.jpg)
 
-## Recourse
+## 3. Recourse
 
 ### Задание: 
 
