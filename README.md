@@ -143,3 +143,11 @@
 ![](Photos/symlist_1.jpg)
 
 ![](Photos/symlist_2.jpg)
+
+**Исходная BPMN-схема**:
+![](Photos/7_task_ish.png)
+
+**BPMN-схема с набором символов 1**:
+![](Photos/7_1_task.png)
+**BPMN-схема с набором символов 2**:
+![](Photos/7_2_task.png)
