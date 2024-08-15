@@ -201,4 +201,4 @@
 
 
 **BPMN-схема**:
-![](Photos/10_1_task.png)
+![](Photos/10__1_task.png)
